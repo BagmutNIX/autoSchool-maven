@@ -1,0 +1,16 @@
+/.classpath
+.classpath
+.idea/
+/.idea/
+.project
+.allure
+*.prefs
+target/
+/out/
+test-output
+*/target
+*.class
+*.iml
+.DS_Store
+allure-results
+allure-report
