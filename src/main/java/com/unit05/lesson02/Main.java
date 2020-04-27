@@ -25,7 +25,7 @@ public class Main {
         Создать коллекцию HashMap<String, Cat>.
         Добавить в коллекцию 10 котов, в качестве ключа использовать имя кота.
         Вывести результат на экран, каждый элемент с новой строки.*/
-        //HashSetCollections.catsMapManualFill();
+        HashSetCollections.catsMapManualFill();
 //
 //        /* 5.2.4 Вывести на экран список ключей
 //        Есть коллекция HashMap<String, String>, туда занесли 10 различных строк.
