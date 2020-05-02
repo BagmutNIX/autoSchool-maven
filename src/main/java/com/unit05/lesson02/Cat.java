@@ -13,5 +13,5 @@ public class Cat {
     }
 
     @Override
-    public String toString() { return name; } //for commit into dove branch
+    public String toString() { return name; } //for commit into master branch
 }
