@@ -37,7 +37,7 @@ public class UseStreamAPI {
             System.out.println(randomString.get(i).length());
         }*/
         //System.out.println(() -> randomString.forEach(String::length));
-        randomString.forEach(s -> System.out.println(s.length()));
+        randomString.forEach(string -> System.out.println(string.length()));
 
         System.out.println("===========================================");
         System.out.println("Words that are not empty and not contain 'd' letter:");
