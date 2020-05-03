@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
-public class Test {
+public class TestTest {
     public static Map<String, String> createMap() {
         System.out.println("");
         System.out.println("");
@@ -16,9 +16,6 @@ public class Test {
 //        public String getMap () {
 //            return mapLastnamesNames;
 //                           //        }
-        mapLastnamesNames.put("LastNameA", "Sim");
-        mapLastnamesNames.put("LastNameB", "Sim");
-        mapLastnamesNames.put("LastNameC", "Sim");
         while (mapLastnamesNames.size() < 10) {
             mapLastnamesNames.put("LastName" + random.nextInt(10), "Name" + random.nextInt(7));
         }
