@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
-public class HashSetCollectionsAdditional {
+public class Additional {
     public static Map<String, String> createMap() {
         System.out.println("");
         System.out.println("");
