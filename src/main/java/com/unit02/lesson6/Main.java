@@ -93,9 +93,5 @@ public class Main {
                 0
         Бум!  */
         ConditionsAndCycles.countDown();
-
-
-
-
     }
 }

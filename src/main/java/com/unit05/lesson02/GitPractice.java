@@ -4,12 +4,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
-public class TestTest {
+public class GitPractice {
     public static void main(String[] args) {
-        createMapDoveDove();
+        createMapMaster();
     }
 
-    public static Map<String, String> createMapDoveDove() {
+    public static Map<String, String> createMapMaster() {
 
         System.out.println("================================================================================");
 
