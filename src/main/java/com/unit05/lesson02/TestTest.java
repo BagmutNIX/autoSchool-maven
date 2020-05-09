@@ -6,10 +6,10 @@ import java.util.Random;
 
 public class TestTest {
     public static void main(String[] args) {
-        createMapDove();
+        createMapMaster();
     }
 
-    public static Map<String, String> createMapDove() {
+    public static Map<String, String> createMapMaster() {
 
         System.out.println("================================================================================");
 
