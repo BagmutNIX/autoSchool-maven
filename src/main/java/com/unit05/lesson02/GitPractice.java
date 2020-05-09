@@ -16,9 +16,6 @@ public class GitPractice {
         Map<String, String> mapLastnamesNames = new HashMap<>();
         Random random = new Random();
 
-//        public String getMap () {
-//            return mapLastnamesNames;
-//                           //        }
         while (mapLastnamesNames.size() < 10) {
             mapLastnamesNames.put("LastName" + random.nextInt(10), "Name" + random.nextInt(7));
         }
