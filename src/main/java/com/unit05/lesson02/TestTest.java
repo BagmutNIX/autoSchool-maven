@@ -6,10 +6,11 @@ import java.util.Random;
 
 public class TestTest {
     public static void main(String[] args) {
-        createMapMaster1();
+        createMapDove();
     }
-    public static Map<String, String> createMapMaster1() {
-        System.out.println("");
+
+    public static Map<String, String> createMapDove() {
+
         System.out.println("================================================================================");
 
         Map<String, String> mapLastnamesNames = new HashMap<>();
