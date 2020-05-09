@@ -10,7 +10,6 @@ public class TestTest {
     }
     public static Map<String, String> createMapDove() {
         System.out.println("");
-        System.out.println("");
         System.out.println("================================================================================");
 
         Map<String, String> mapLastnamesNames = new HashMap<>();
