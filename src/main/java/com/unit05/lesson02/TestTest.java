@@ -6,9 +6,9 @@ import java.util.Random;
 
 public class TestTest {
     public static void main(String[] args) {
-        createMapMaster();
+        createMapMaster1();
     }
-    public static Map<String, String> createMapMaster() {
+    public static Map<String, String> createMapMaster1() {
         System.out.println("");
         System.out.println("");
         System.out.println("================================================================================");
